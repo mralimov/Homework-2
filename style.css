@@ -1,0 +1,14 @@
+/* selector {
+  property: value;
+} 
+*/
+
+div.cool{
+    float: left; 
+   }
+   
+   div.eat {
+     float: right;
+   }
+   
+   
